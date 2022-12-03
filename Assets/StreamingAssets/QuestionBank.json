@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "Apellido de Luigi",
+        "respuestas": [
+          { "texto": "Mario" },
+          { "texto": "Bros" },
+          { "texto": "Mansion" },
+          { "texto": "Super" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Sub Zero es el ninja:",
+        "respuestas": [
+          { "texto": "Rojo" },
+          { "texto": "Azul" },
+          { "texto": "Verde" },
+          { "texto": "purpura" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Kratos es un personaje de:",
+        "respuestas": [
+          { "texto": "Dante´s inferno" },
+          { "texto": "Gears of Wars" },
+            { "texto": "Halo" },
+            { "texto": "God of War" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Lider Autobot",
+        "respuestas": [
+          { "texto": "Optimus Prime" },
+          { "texto": "Megatron" },
+          { "texto": "Omega Supreme" },
+          { "texto": "Ultra Magnus" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "El power ranger malvado era",
+        "respuestas": [
+          { "texto": "Negro" },
+          { "texto": "Verde" },
+          { "texto": "Naranja" },
+          { "texto": "Purpura" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "Cual de estos personajes NO es un espartano",
+        "respuestas": [
+          { "texto": "John 117" },
+          { "texto": "Kratos" },
+          { "texto": "Dante" },
+          { "texto": "Leonidas" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "El Verdadero Villano de Karate Kid",
+        "respuestas": [
+          { "texto": "Daniel Larusso" },
+          { "texto": "Jhonny" },
+          { "texto": "Terry Silver" },
+          { "texto": "John Kreese" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Abuelo de Morty",
+        "respuestas": [
+          { "texto": "Rick" },
+          { "texto": "Finn" },
+          { "texto": "Jake" },
+          { "texto": "Jerry" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantas hermanas tiene Bart Simson",
+        "respuestas": [
+          { "texto": "1" },
+          { "texto": "2" },
+          { "texto": "3" },
+          { "texto": "a4" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Color de Elmo",
+        "respuestas": [
+          { "texto": "Azul" },
+          { "texto": "Verde" },
+          { "texto": "Rojo" },
+          { "texto": "Amarillo" }
+        ],
+        "respuestaCorrecta": 2 
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "Planeta Natal de Goku",
+        "respuestas": [
+          { "texto": "Vegeta" },
+          { "texto": "Namek" },
+          { "texto": "Eridanus 2" },
+          { "texto": "Battle world" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cual de las siguientes NO es un color de la kriptonita",
+        "respuestas": [
+          { "texto": "Rosa" },
+          { "texto": "Negra" },
+          { "texto": "Purpura" },
+          { "texto": "Blanca" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "enunciado m3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "El Rey Koopa es?",
+        "respuestas": [
+          { "texto": "Koopatrick" },
+          { "texto": "Morton Koopa Jr" },
+          { "texto": "Bowser Koopa" },
+          { "texto": "Kamek Koopa" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Nombre de Superman",
+        "respuestas": [
+          { "texto": "Kal Kestis" },
+          { "texto": "Jor El" },
+          { "texto": "John Rodd" },
+          { "texto": "Kal El" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Apellido",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "enunciado eh1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  }
+]
