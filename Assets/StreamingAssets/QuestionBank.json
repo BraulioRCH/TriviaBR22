@@ -133,7 +133,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado m3",
+        "enunciado": "",
         "respuestas": [
           { "texto": "answer 0" },
           { "texto": "answer 1" },
@@ -188,87 +188,32 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "Apellido",
+        "enunciado": "Nombre del segundo Robin",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Tim Drake" },
+          { "texto": "Jason Todd" },
+          { "texto": "Dick Grason" },
+          { "texto": "Damian Wayne" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado h4",
+        "enunciado": "Cual de los siguientes no es villano de batman",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Hombre calendario" },
+          { "texto": "Sombrerero loco" },
+          { "texto": "Black spider" },
+          { "texto": "Capitan frio" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado h5",
+        "enunciado": "A que juego pertenece el Master Chief",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      }
-    ]
-  },
-  {
-    "nombreDificultad": "Extra Hard",
-    "preguntas": [
-      {
-        "enunciado": "enunciado eh1",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh2",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh3",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Halo" },
+          { "texto": "Master of destruction" },
+          { "texto": "Cocking in wii" },
+          { "texto": "Call of Duty" }
         ],
         "respuestaCorrecta": 0
       }
